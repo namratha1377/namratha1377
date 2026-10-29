@@ -1,11 +1,10 @@
 
-# Hi, I'm Namratha Sheshadri 👋
+# Hi, I'm Namratha S
 
-🎓 Computer Science and Engineering Student
+Computer Science and Engineering Student
 
-I'm a CSE student interested in software development and building
-practical applications. I enjoy learning how frontend interfaces,
-backend services, databases, and APIs work together.
+
+I'm a Computer Science and Engineering student passionate about software development, cybersecurity, and building practical, secure applications. I enjoy exploring full-stack technologies, understanding security challenges, and developing solutions that combine functionality with security.
 
 
 ## Tech Stack
@@ -43,7 +42,7 @@ backend services, databases, and APIs work together.
 </p>
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### ShadowGuard — AI Governance Platform
 
@@ -54,14 +53,24 @@ application with a backend and a Python-based AI harness.
 
 [View Project](https://github.com/namratha1377/ShadowGuard-AI-Governance-Platform-)
 
-### Smart Traffic Assistant
 
-A project focused on applying technology to a traffic-related problem.
+### SafeCross: Pedestrian Assistance System for the Visually Impaired
 
-**Technologies:** Add the actual technologies used in this project.
+A smart pedestrian assistance system designed to improve crossing safety for visually impaired individuals using sensor-based detection and a tactile mechanism that provides physical feedback to support accessible pedestrian crossing.
 
-[View Project](ADD_YOUR_PROJECT_REPOSITORY_LINK)
+- **Key Features:** 20-second crossing countdown, faster warning beeps during the final 5 seconds, sensor-based crossing time extension, and tactile traffic-status feedback.
+- **Technologies:** Arduino UNO R4 WiFi · Arduino IDE · C/C++ · Ultrasonic Sensor · Tactile Feedback Mechanism
+- **Achievement:** Second Place — IoT & Project Expo
 
-## 📫 Connect With Me
+[View Repository](https://github.com/namratha1377/safecross-pedestrian-assistance)
 
-- LinkedIn: ADD_YOUR_LINKEDIN_PROFILE_URL
+
+### Incident Response Playbook
+
+A cybersecurity project documenting structured incident response procedures to help identify, analyze, contain, and recover from security incidents.
+
+- **Focus:** Incident response fundamentals, security analysis, and incident handling workflows
+- **Skills:** Cybersecurity fundamentals, incident documentation, and response planning
+
+[View Project](https://github.com/namratha1377/Incident_response_playbook)
+
