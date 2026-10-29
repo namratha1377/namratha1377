@@ -44,7 +44,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 ## Featured Projects
 
-### ShadowGuard — AI Governance Platform
+### ShadowGuard — Shadow AI Governance Platform
 
 A project focused on AI governance and security, combining a web
 application with a backend and a Python-based AI harness.
